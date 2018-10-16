@@ -10,7 +10,7 @@ Cordova reference documentation:
 - Cuando se crea un proveedor y esta la importación -> import { IonicPage, NavController, NavParams } from 'ionic-angular'; acordarse de poner en el constructor (navParams) por defecto aparece navParam.
   constructor(public navCtrl: NavController, public navParams: NavParams, public proveedor:Proveedor1Provider) {}
 
-    - entramos al proyecto enla raiz myApp(como s ellame)
+  - entramos al proyecto enla raiz myApp(como s ellame)
     ejecutamos el comando:
 
     ionic cordova build android
